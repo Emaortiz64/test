@@ -1,0 +1,14 @@
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\net8.0\EjerciciosCSharp.exe
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\net8.0\EjerciciosCSharp.deps.json
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\net8.0\EjerciciosCSharp.runtimeconfig.json
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\net8.0\EjerciciosCSharp.dll
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\net8.0\EjerciciosCSharp.pdb
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\EjerciciosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\EjerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\EjerciciosCSharp.AssemblyInfo.cs
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\EjerciciosCSharp.dll
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\refint\EjerciciosCSharp.dll
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\EjerciciosCSharp.pdb
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\EjerciciosCSharp.genruntimeconfig.cache
+C:\Users\emman\source\repos\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\net8.0\ref\EjerciciosCSharp.dll
